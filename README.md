@@ -1,16 +1,19 @@
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZlODRlZ2J5cDJjcWljcnVrMm44N3hrZ2FoYzl2a2g3djRsd3BoZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2Ok1vk3K5BPX44/giphy.gif"  />
+  <img height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZlODRlZ2J5cDJjcWljcnVrMm44N3hrZ2FoYzl2a2g3djRsd3BoZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2Ok1vk3K5BPX44/giphy.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=#006400&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/pablo-rangel-2261432bb/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
   <a href="https://wa.me/5512981460346" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=#077325&logoColor=white&labelColor=#03ad34&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=#077325&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=#077325&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="pablo.rangel.aguayo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=#077325&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
